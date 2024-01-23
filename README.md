@@ -1,2 +1,2 @@
-# 339week2
-Week 2 Lab Work
+# ccp_starter_code
+Starter Code for your CCP 
